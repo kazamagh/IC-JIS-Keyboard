@@ -75,3 +75,72 @@ IC-JIS-Keyboard/
 ├── images/
 ├── layouts/
 └── examples/
+```
+
+### `docs/`
+
+Technical proposals and supporting documents.
+
+See docs/.
+
+### `images/`
+
+Figures, keyboard diagrams, historical references, and visual materials used to explain the concept.
+
+See images/.
+
+### `layouts/`
+
+Reference layouts and future IC-JIS layout variations.
+
+See layouts/.
+
+### `examples/`
+
+Experimental implementations demonstrating how IC-JIS concepts can be tested with existing programmable keyboard technologies.
+
+See examples/.
+
+## Step 0: Try the Concept
+
+IC-JIS does not require a manufacturer to design new hardware before evaluating the idea.
+
+A useful first step is simply to reproduce selected IC-JIS concepts on an existing programmable keyboard.
+
+For example:
+
+- assign thumb-accessible keys around the spacebar,
+- experiment with Japanese input switching,
+- combine these positions with Mod-Tap,
+- evaluate the concept with layers,
+- and test equivalent arrangements on compact keyboards.
+
+This repository is intended to gradually provide practical examples for such experiments.
+
+See examples/ for implementations as they become available.
+
+## Project Status
+
+IC-JIS is currently a technical proposal and experimental design project.
+
+The project is intended to encourage discussion, prototyping, and evaluation rather than to present a finalized keyboard standard.
+
+Feedback from keyboard manufacturers, firmware developers, keyboard designers, and users is welcome.
+
+## About the Name
+
+**IC-JIS** is the name of the project.
+
+The GitHub repository is named **IC-JIS-Keyboard** so that its subject can be recognized more easily when encountered through search results or external links.
+
+## Author
+
+T. Kazama
+
+Japan
+
+## License
+
+Licensing terms for the documents, diagrams, layout data, and future implementation code are currently under consideration.
+
+Unless otherwise stated, no additional license is granted at this stage.
