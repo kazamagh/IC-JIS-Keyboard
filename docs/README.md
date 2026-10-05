@@ -6,7 +6,7 @@ This directory contains the primary technical documents for the IC-JIS project.
 
 ### English
 
-[IC-JIS Technical Proposal - English](./IC-JIS_Technical_Proposal_EN.pdf
+./IC-JIS_Technical_Proposal_EN.pdf
 
 The English edition is intended as the primary reference for international keyboard manufacturers, designers, developers, and other readers interested in evaluating the IC-JIS concept.
 
