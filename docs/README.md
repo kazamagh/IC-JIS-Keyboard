@@ -10,19 +10,15 @@ This directory contains the primary technical documents for the IC-JIS project.
 
 The English edition is intended as the primary reference for international keyboard manufacturers, designers, developers, and other readers interested in evaluating the IC-JIS concept.
 
-### Japanese
-
-./IC-JIS_Technical_Proposal_JA.pdf
-
-The Japanese edition provides the original Japanese-language presentation of the proposal.
-
 ## Purpose of This Directory
 
-Documents placed here describe the rationale, background, design principles, and proposed implementation approaches of IC-JIS.
+Documents placed here describe the rationale, historical background, design principles, layout analysis, and proposed implementation approaches of IC-JIS.
 
-Experimental files and specific keyboard implementations are maintained separately under:
+Experimental layouts and practical implementations are maintained separately under:
 
 - ../layouts/
 - ../examples/
 
-../README.md
+## Back to the Project
+
+Return to the ../README.md.
