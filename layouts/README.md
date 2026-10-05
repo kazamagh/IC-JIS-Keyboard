@@ -23,6 +23,5 @@ As implementations are developed, this directory may contain subdirectories such
 ```text
 layouts/
 ├── reference/
-├── hhkb/
 ├── 40-percent/
-└── split-space/
+└── another/
