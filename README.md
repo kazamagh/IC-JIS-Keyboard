@@ -2,9 +2,11 @@
 
 **A Technical Proposal for the Evolution of the Japanese Keyboard Layout**
 
-IC-JIS is a technical proposal that explores how the Japanese JIS keyboard layout can be reinterpreted for modern programmable keyboards.
+IC-JIS explores how the Japanese JIS keyboard layout can be reinterpreted for modern programmable keyboards.
 
-Rather than inventing an entirely new keyboard standard, IC-JIS looks at the existing Japanese keyboard architecture, especially the keys surrounding the spacebar, and asks how those accumulated design elements can be connected with contemporary practices such as split spacebars, Mod-Tap, VIA/QMK, and compact keyboard layouts.
+Rather than inventing an entirely new keyboard standard, IC-JIS connects design elements already present in the Japanese keyboard architecture with contemporary practices such as split spacebars, Mod-Tap, VIA/QMK, and compact keyboard layouts.
+
+The focus is especially on the keys surrounding the spacebar, an area where the history of Japanese input and modern programmable keyboard design unexpectedly converge.
 
 ## Why IC-JIS?
 
@@ -62,7 +64,6 @@ IC-JIS is based on several principles:
 The detailed rationale, historical background, layout analysis, and implementation approach are described in the IC-JIS Technical Proposal.
 
 - docs/IC-JIS_Technical_Proposal_EN.pdf
-- docs/IC-JIS_Technical_Proposal_JA.pdf
 
 The English version is intended as the primary reference for international keyboard manufacturers, designers, and developers.
 
@@ -135,8 +136,7 @@ The GitHub repository is named **IC-JIS-Keyboard** so that its subject can be re
 
 ## Author
 
-T. Kazama
-
+T. Kazama  
 Japan
 
 ## License
