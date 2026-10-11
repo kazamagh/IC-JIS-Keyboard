@@ -136,11 +136,13 @@ The GitHub repository is named **IC-JIS-Keyboard** so that its subject can be re
 
 ## Author
 
-T. Kazama  
+T. KAZAMA
 Japan
 
 ## License
 
-Licensing terms for the documents, diagrams, layout data, and future implementation code are currently under consideration.
+Unless otherwise noted, the original documentation and diagrams in this repository, including this README and the IC-JIS Technical Proposal, are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Unless otherwise stated, no additional license is granted at this stage.
+Third-party images, product photographs, trademarks, and other third-party materials are excluded from this license and remain subject to the rights of their respective owners.
+
+Licensing terms for hardware design files and software are specified separately where applicable. Until such terms are explicitly stated, no additional license is granted for those materials.
